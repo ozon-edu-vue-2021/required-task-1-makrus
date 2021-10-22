@@ -10,7 +10,7 @@ const popupContainer = document.querySelector('.popup .content');
 const popupClose = document.querySelector('.popup .action');
 const loader = document.querySelector('.loader');
 
-const MAX_PAGE_IMAGES = 3;
+const MAX_PAGE_IMAGES = 34;
 let loaderTimeout;
 
 /**
